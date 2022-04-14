@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Website on The DAX Shepherd</title>
-    <link>https://thedaxshepherd.github.io/hugo-ds-paper/categories/website/</link>
+    <link>https://thedaxshepherd.github.io/categories/website/</link>
     <description>Recent content in Website on The DAX Shepherd</description>
     <image>
-      <url>https://thedaxshepherd.github.io/hugo-ds-paper/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://thedaxshepherd.github.io/hugo-ds-paper/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://thedaxshepherd.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://thedaxshepherd.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/hugo-ds-paper/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo and GitHub Pages for my blog</title>
-      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/website-hugo-for-blog/website-hugo-blog-git/</link>
+      <link>https://thedaxshepherd.github.io/post/website-hugo-for-blog/website-hugo-blog-git/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/website-hugo-for-blog/website-hugo-blog-git/</guid>
+      <guid>https://thedaxshepherd.github.io/post/website-hugo-for-blog/website-hugo-blog-git/</guid>
       <description>How I setup this blog</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-post/my-first-post/</link>
+      <link>https://thedaxshepherd.github.io/post/my-first-post/my-first-post/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-post/my-first-post/</guid>
+      <guid>https://thedaxshepherd.github.io/post/my-first-post/my-first-post/</guid>
       <description>This article is to test out the syntax highlighting for DAX code using Prism. It also is to test out using tags and categories.</description>
     </item>
     
