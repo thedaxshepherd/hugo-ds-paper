@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The DAX Shepherd</title>
-    <link>https://thedaxshepherd.net/</link>
+    <link>https://thedaxshepherd.github.io/hugo-ds-paper/</link>
     <description>Recent content on The DAX Shepherd</description>
     <image>
-      <url>https://thedaxshepherd.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://thedaxshepherd.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://thedaxshepherd.github.io/hugo-ds-paper/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/hugo-ds-paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defining Measures in DAX Studio</title>
-      <link>https://thedaxshepherd.net/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</guid>
       <description>1211 After a period of not defining measures in DAX Studio, I seem to make the same two mistakes.
 The first error occurs when I try to run the following code to define a measure in a query:
 DEFINE MEASURE [UnitPrice] = SUM(&amp;#39;Sales&amp;#39;[Unit Price]) EVALUATE CALCULATE([UnitPrice]) This generates the following error: The syntax for &amp;lsquo;=&amp;rsquo; is incorrect. .
@@ -25,118 +25,118 @@ The issue lies in not including the table name before the measure name.</descrip
     
     <item>
       <title>Using Hugo and GitHub Pages for my blog</title>
-      <link>https://thedaxshepherd.net/post/website-hugo-for-blog/website-hugo-blog-git/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/website-hugo-for-blog/website-hugo-blog-git/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/website-hugo-for-blog/website-hugo-blog-git/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/website-hugo-for-blog/website-hugo-blog-git/</guid>
       <description>How I setup this blog</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://thedaxshepherd.net/post/my-first-post/my-first-post/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-post/my-first-post/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-post/my-first-post/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-post/my-first-post/</guid>
       <description>This article is to test out the syntax highlighting for DAX code using Prism. It also is to test out using tags and categories.</description>
     </item>
     
     <item>
       <title>My 100th post</title>
-      <link>https://thedaxshepherd.net/post/my-first-tes4/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes4/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-tes4/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes4/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-tes10/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes10/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-tes10/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes10/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-tes5/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes5/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-tes5/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes5/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-tes6/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes6/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-tes6/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes6/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-tes7/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes7/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-tes7/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes7/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-tes8/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes8/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-tes8/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes8/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-tes9/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes9/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-tes9/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-tes9/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-test/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-test/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-test/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-test2/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-test2/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-test2/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-test2/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://thedaxshepherd.net/post/my-first-test3/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-test3/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-test3/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-test3/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://thedaxshepherd.net/about/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/about/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/about/</guid>
       <description>My name is Jason Romans and I work on the Microsoft business intelligence stack.
 I live in Nashville, Tennessee with my wife. I grew up in Southern California in the town of Perris.
 My first computer was a Commodore 64. Since then I have been hooked on computers. I would go to the computer show at the fairgrounds to buy all the parts to build or upgrade my pc. Building my newest PC was a different experience since all I had to do was click to purchase the parts and wait for them to arrive.</description>
@@ -144,29 +144,29 @@ My first computer was a Commodore 64. Since then I have been hooked on computers
     
     <item>
       <title>My Work</title>
-      <link>https://thedaxshepherd.net/mywork/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/mywork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/mywork/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/mywork/</guid>
       <description>I work in a small IT shop. What this means is that I have to be self motivated to learn new skills and to apply them to projects I am working on. I had to have faith that if I built out data models using Microsoft BI that the business would see the value and benefit. A build and and they will come scenario. Lastly it means that I have to wear many hats from gathering requirements from the business to developing the best data model, to creating measures, and lastly to how the data will be presented on the canvas (whether Excel or Power BI).</description>
     </item>
     
     
     <item>
       <title>Posts</title>
-      <link>https://thedaxshepherd.net/posts/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/posts/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/posts/</guid>
       <description>posts</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://thedaxshepherd.net/resources/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/resources/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/resources/</guid>
       <description>This list is not an exhaustive list but I want to keep track of books, podcasts, and websites that I have found helpful.
 Podcasts Books
 Websites

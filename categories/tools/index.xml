@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tools on The DAX Shepherd</title>
-    <link>https://thedaxshepherd.net/categories/tools/</link>
+    <link>https://thedaxshepherd.github.io/hugo-ds-paper/categories/tools/</link>
     <description>Recent content in Tools on The DAX Shepherd</description>
     <image>
-      <url>https://thedaxshepherd.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://thedaxshepherd.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://thedaxshepherd.github.io/hugo-ds-paper/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.net/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedaxshepherd.github.io/hugo-ds-paper/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defining Measures in DAX Studio</title>
-      <link>https://thedaxshepherd.net/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/adding-measures-dax-studio/defining-measures-in-dax-studio/</guid>
       <description>1211 After a period of not defining measures in DAX Studio, I seem to make the same two mistakes.
 The first error occurs when I try to run the following code to define a measure in a query:
 DEFINE MEASURE [UnitPrice] = SUM(&amp;#39;Sales&amp;#39;[Unit Price]) EVALUATE CALCULATE([UnitPrice]) This generates the following error: The syntax for &amp;lsquo;=&amp;rsquo; is incorrect. .
@@ -25,10 +25,10 @@ The issue lies in not including the table name before the measure name.</descrip
     
     <item>
       <title>My First Post</title>
-      <link>https://thedaxshepherd.net/post/my-first-post/my-first-post/</link>
+      <link>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-post/my-first-post/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedaxshepherd.net/post/my-first-post/my-first-post/</guid>
+      <guid>https://thedaxshepherd.github.io/hugo-ds-paper/post/my-first-post/my-first-post/</guid>
       <description>This article is to test out the syntax highlighting for DAX code using Prism. It also is to test out using tags and categories.</description>
     </item>
     
