@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thedaxshepherd.net/sitemap.xml
